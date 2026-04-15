@@ -57,6 +57,6 @@ Packet-level features alone are not always sufficient to clearly distinguish bet
 ---
 
 ## 👨‍💻 Author
-Kokou Eklou Agnide| 
-Computer Science Student| 
+Kokou Eklou Agnide | 
+Computer Science Student | 
 Focus: Networking, Security, Machine Learning
